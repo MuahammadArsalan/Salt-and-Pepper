@@ -1,0 +1,177 @@
+:root {
+    --red: #ff1c1c;
+    --gray: #1f1f1fbe;
+    --white: #ffffff;
+    --lightblack: #ffffff0f;
+}
+
+
+/* nav li started */
+
+
+
+#nav-part-02 {
+
+    text-decoration: none;
+    margin: 20px;
+}
+
+.btn-franchise {
+    width: 120px;
+    color: #ffffff;
+    padding: 17px;
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+}
+
+.btn-orderonline {
+    width: 120px;
+    border-radius: 30px;
+    color: #ffffff;
+    padding: 17px;
+    border: 1px solid #ffffff;
+    background-color: var(--red);
+
+}
+
+/* nav li ended */
+
+/* section one started */
+
+#welcome {
+    font-size: 30px;
+
+}
+
+.para-one {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.para-two {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.further {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.img {
+    background-color: var(--white);
+    margin: 16px;
+}
+
+.image-btn {
+
+    text-decoration: none;
+    margin: 15px 60px;
+    padding: 6px;
+    width: 155px;
+}
+
+#main-height {
+    height: 50vh;
+}
+
+
+/* section one ended */
+
+
+
+/* section two started */
+
+
+#head-one {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#franchises {
+    background-color: var(--gray);
+    position: relative;
+    height: 50vh;
+    width: 99vw;
+}
+
+#franch-child {
+    position: relative;
+    top: 45px;
+}
+
+.Rest-franch {
+
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+}
+
+.sec-2-part-a-1 {
+    color: var(--red);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 11px;
+    letter-spacing: 4px;
+}
+
+.sec-2-part-a-2 {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+.sec-2-part-a-3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.font {
+    font-size: 40px;
+}
+
+.inline {
+    display: inline;
+}
+
+.image-btn-sec-2-part-a {
+
+    text-decoration: none;
+    padding: 10px;
+    width: 130px;
+}
+
+#isl-house {
+    background-color: var(--gray);
+    border: none;
+
+}
+#fsl-house {
+    background-color: var(--gray);
+    border: none;
+}
+#main-sec-2{
+background-color: var(--gray);
+}
+.main-a{
+    position: relative;
+}
+/* section two started */
+
+
+/* section three started */
+.main-para-sec-3{
+    font-size:40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-head-sec-3{
+font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.font-sec-3{
+    font-size: 28px;
+}
+.express{
+    font-weight: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+/* section three ended */
