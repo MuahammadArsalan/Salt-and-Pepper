@@ -19,16 +19,16 @@
 .btn-franchise {
     width: 120px;
     color: #ffffff;
-    padding: 17px;
+    padding: 16px;
     border: 1px solid #ffffff;
     border-radius: 30px;
 }
 
 .btn-orderonline {
-    width: 120px;
+    width: 140px;
     border-radius: 30px;
     color: #ffffff;
-    padding: 17px;
+    padding: 16px;
     border: 1px solid #ffffff;
     background-color: var(--red);
 
@@ -175,3 +175,101 @@ font-size: 35px;
     font-size: 25px;
 }
 /* section three ended */
+
+/* section four started */
+#village{
+    background-color: var(--gray);
+    height: 75vh;
+    
+}
+
+
+
+
+/* section four started */
+
+#village-btn{
+background-color: #16c816;
+color: #ffffff;
+        border-radius:25px;
+width: 130px;
+padding: 10px;
+}
+#village{
+    margin-top: 30px;
+    background-color: var(--gray);
+    height: 75vh;
+}
+
+/* section four ended */
+
+/* section five started */
+.box{
+    width: 300px;
+    height: 200px;
+    background-color:#ffffff;
+ 
+}
+.p1-box{
+    letter-spacing: 2px;
+    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 0px;
+    font-size: 10px;
+}
+.t-grey{
+    color: #cee79e;
+}
+.t-black{
+    color: #000000;
+}
+
+/* section five ended */
+
+
+/* footer started  */
+li{
+    list-style: none;
+    margin-top:25px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-decoration: none;
+
+}
+
+.footer-p3{
+    
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer-h1{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#para-footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#footer{
+    background-color: var(--gray);
+    height: 50vh;
+}
+#fb{
+    color: var(--red);
+    gap: 10px;
+    font-size: 30px;
+}
+#insta{
+    color: var(--red);
+    font-size: 30px;
+    gap: 10px;
+}
+#twitter{
+    color: var(--red);
+    font-size: 30px;
+    gap: 10px;
+}
+#lastdiv{
+font-size: 20px;
+font-family: 'Poppins', sans-serif;
+}
+
+
+/* footer ended  */
